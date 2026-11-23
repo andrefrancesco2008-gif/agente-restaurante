@@ -1,0 +1,21 @@
+id_cliente,nombre,correo,telefono,frecuente
+C001,Carlos Mendoza,carlos.mendoza@email.com,987111001,si
+C002,Lucia Torres,lucia.torres@email.com,987111002,si
+C003,Jorge Quispe,jorge.quispe@email.com,987111003,si
+C004,Valeria Paredes,valeria.paredes@email.com,987111004,si
+C005,Rodrigo Chavez,rodrigo.chavez@email.com,987111005,no
+C006,Camila Rojas,camila.rojas@email.com,987111006,si
+C007,Mateo Vargas,mateo.vargas@email.com,987111007,no
+C008,Sofia Herrera,sofia.herrera@email.com,987111008,si
+C009,Diego Salazar,diego.salazar@email.com,987111009,no
+C010,Fernanda Castro,fernanda.castro@email.com,987111010,si
+C011,Sebastian Flores,sebastian.flores@email.com,987111011,no
+C012,Andrea Morales,andrea.morales@email.com,987111012,si
+C013,Luis Navarro,luis.navarro@email.com,987111013,no
+C014,Paula Gutierrez,paula.gutierrez@email.com,987111014,si
+C015,Gabriel Ramos,gabriel.ramos@email.com,987111015,no
+C016,Daniela Ortega,daniela.ortega@email.com,987111016,si
+C017,Renato Delgado,renato.delgado@email.com,987111017,no
+C018,Mariana Silva,mariana.silva@email.com,987111018,si
+C019,Alonso Medina,alonso.medina@email.com,987111019,no
+C020,Kiara Lozano,kiara.lozano@email.com,987111020,si

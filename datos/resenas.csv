@@ -1,0 +1,25 @@
+id_resena,id_cliente,cliente,plataforma,calificacion,categoria,urgencia,estado,fecha,texto
+R001,C001,Carlos Mendoza,Google Maps,5,Servicio,Baja,Respondida,2026-11-01 13:20,Excelente lomo saltado y muy buena atencion del mozo
+R002,C002,Lucia Torres,Google Maps,1,Tiempos,Urgente,Pendiente,2026-11-02 14:10,El pedido tardo 50 minutos y el plato llego frio
+R003,C003,Jorge Quispe,TripAdvisor,2,Servicio,Urgente,Pendiente,2026-11-03 19:00,Se equivocaron en el pedido y el mozo dio mal trato
+R004,C004,Valeria Paredes,PedidosYa,1,Comida,Urgente,Pendiente,2026-11-04 12:30,La carne llego cruda y demoro demasiado
+R005,C005,Rodrigo Chavez,Google Maps,3,Tiempos,Media,Respondida,2026-11-05 13:45,Comida regular pero hubo demora en la entrada
+R006,C006,Camila Rojas,Instagram,5,Comida,Baja,Respondida,2026-11-06 20:15,El aji de gallina estuvo espectacular volveremos pronto
+R007,C007,Mateo Vargas,Rappi,1,Delivery,Urgente,Pendiente,2026-11-07 21:05,El empaque llego roto y se derramo la sopa en la bolsa
+R008,C008,Sofia Herrera,TripAdvisor,4,Ambiente,Baja,Respondida,2026-11-08 14:30,Local muy limpio y musica agradable ideal para familia
+R009,C009,Diego Salazar,PedidosYa,2,Delivery,Urgente,Respondida,2026-11-09 19:40,Faltaron las bebidas que pague en el pedido
+R010,C010,Fernanda Castro,Google Maps,2,Comida,Urgente,Pendiente,2026-11-10 13:15,El ceviche estaba demasiado salado y el pescado tibio
+R011,C011,Sebastian Flores,Google Maps,5,Comida,Baja,Respondida,2026-11-11 15:00,Porciones generosas y excelente sazon peruana
+R012,C012,Andrea Morales,Instagram,4,Servicio,Baja,Respondida,2026-11-12 20:45,Muy amables en caja aunque falto un poco de rapidez
+R013,C013,Luis Navarro,Rappi,1,Tiempos,Urgente,Pendiente,2026-11-13 21:30,Espere mas de una hora y nadie respondio el telefono
+R014,C014,Paula Gutierrez,TripAdvisor,5,Ambiente,Baja,Respondida,2026-11-14 14:20,Decoracion acogedora y postres deliciosos
+R015,C015,Gabriel Ramos,PedidosYa,3,Delivery,Media,Respondida,2026-11-15 19:10,Llego a tiempo pero las papas estaban algo blandas
+R016,C016,Daniela Ortega,TripAdvisor,2,Servicio,Urgente,Pendiente,2026-11-16 13:50,Tuvimos que pedir tres veces la cuenta y nadie venia
+R017,C017,Renato Delgado,Google Maps,4,Comida,Baja,Respondida,2026-11-17 14:05,Buen arroz con mariscos y precio justo
+R018,C018,Mariana Silva,Instagram,5,Servicio,Baja,Respondida,2026-11-18 20:00,Celebramos un cumpleanos y la atencion fue impecable
+R019,C019,Alonso Medina,PedidosYa,3,Tiempos,Media,Pendiente,2026-11-19 13:10,El sabor es bueno pero tardo 35 minutos en salir de cocina
+R020,C020,Kiara Lozano,Google Maps,5,Comida,Baja,Respondida,2026-11-20 15:25,La causa rellena y la chicha morada son las mejores
+R021,C001,Carlos Mendoza,TripAdvisor,4,Ambiente,Baja,Respondida,2026-11-20 20:30,Segunda visita y sigue siendo muy buen restaurante
+R022,C002,Lucia Torres,Rappi,2,Delivery,Urgente,Pendiente,2026-11-21 14:00,Otra vez enviaron el pedido sin cubiertos ni servilletas
+R023,C006,Camila Rojas,Google Maps,5,Servicio,Baja,Respondida,2026-11-21 19:50,Siempre nos atienden con una sonrisa recomendado
+R024,C004,Valeria Paredes,Google Maps,3,Ambiente,Media,Pendiente,2026-11-22 13:30,La comida mejoro bastante pero el salon estaba muy ruidoso
