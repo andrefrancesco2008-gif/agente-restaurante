@@ -32,7 +32,7 @@ elif PROVEEDOR == "ollama":
         api_key=OLLAMA_API_KEY,
     )
 else:
-    modelo = "gemini-3.8-flash"
+    modelo = "gemini-flash-lite-latest"
 
 # 3. Ruta a la carpeta de datasets CSV
 carpeta = Path(__file__).parent / "datos"
