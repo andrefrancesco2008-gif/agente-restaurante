@@ -1,25 +1,25 @@
-id_resena,id_cliente,cliente,plataforma,calificacion,categoria,urgencia,estado,fecha,texto
-R001,C001,Carlos Mendoza,Google Maps,5,Servicio,Baja,Respondida,2026-11-01 13:20,Excelente lomo saltado y muy buena atencion del mozo
-R002,C002,Lucia Torres,Google Maps,1,Tiempos,Urgente,Pendiente,2026-11-02 14:10,El pedido tardo 50 minutos y el plato llego frio
-R003,C003,Jorge Quispe,TripAdvisor,2,Servicio,Urgente,Pendiente,2026-11-03 19:00,Se equivocaron en el pedido y el mozo dio mal trato
-R004,C004,Valeria Paredes,PedidosYa,1,Comida,Urgente,Pendiente,2026-11-04 12:30,La carne llego cruda y demoro demasiado
-R005,C005,Rodrigo Chavez,Google Maps,3,Tiempos,Media,Respondida,2026-11-05 13:45,Comida regular pero hubo demora en la entrada
-R006,C006,Camila Rojas,Instagram,5,Comida,Baja,Respondida,2026-11-06 20:15,El aji de gallina estuvo espectacular volveremos pronto
-R007,C007,Mateo Vargas,Rappi,1,Delivery,Urgente,Pendiente,2026-11-07 21:05,El empaque llego roto y se derramo la sopa en la bolsa
-R008,C008,Sofia Herrera,TripAdvisor,4,Ambiente,Baja,Respondida,2026-11-08 14:30,Local muy limpio y musica agradable ideal para familia
-R009,C009,Diego Salazar,PedidosYa,2,Delivery,Urgente,Respondida,2026-11-09 19:40,Faltaron las bebidas que pague en el pedido
-R010,C010,Fernanda Castro,Google Maps,2,Comida,Urgente,Pendiente,2026-11-10 13:15,El ceviche estaba demasiado salado y el pescado tibio
-R011,C011,Sebastian Flores,Google Maps,5,Comida,Baja,Respondida,2026-11-11 15:00,Porciones generosas y excelente sazon peruana
-R012,C012,Andrea Morales,Instagram,4,Servicio,Baja,Respondida,2026-11-12 20:45,Muy amables en caja aunque falto un poco de rapidez
-R013,C013,Luis Navarro,Rappi,1,Tiempos,Urgente,Pendiente,2026-11-13 21:30,Espere mas de una hora y nadie respondio el telefono
-R014,C014,Paula Gutierrez,TripAdvisor,5,Ambiente,Baja,Respondida,2026-11-14 14:20,Decoracion acogedora y postres deliciosos
-R015,C015,Gabriel Ramos,PedidosYa,3,Delivery,Media,Respondida,2026-11-15 19:10,Llego a tiempo pero las papas estaban algo blandas
-R016,C016,Daniela Ortega,TripAdvisor,2,Servicio,Urgente,Pendiente,2026-11-16 13:50,Tuvimos que pedir tres veces la cuenta y nadie venia
-R017,C017,Renato Delgado,Google Maps,4,Comida,Baja,Respondida,2026-11-17 14:05,Buen arroz con mariscos y precio justo
-R018,C018,Mariana Silva,Instagram,5,Servicio,Baja,Respondida,2026-11-18 20:00,Celebramos un cumpleanos y la atencion fue impecable
-R019,C019,Alonso Medina,PedidosYa,3,Tiempos,Media,Pendiente,2026-11-19 13:10,El sabor es bueno pero tardo 35 minutos en salir de cocina
-R020,C020,Kiara Lozano,Google Maps,5,Comida,Baja,Respondida,2026-11-20 15:25,La causa rellena y la chicha morada son las mejores
-R021,C001,Carlos Mendoza,TripAdvisor,4,Ambiente,Baja,Respondida,2026-11-20 20:30,Segunda visita y sigue siendo muy buen restaurante
-R022,C002,Lucia Torres,Rappi,2,Delivery,Urgente,Pendiente,2026-11-21 14:00,Otra vez enviaron el pedido sin cubiertos ni servilletas
-R023,C006,Camila Rojas,Google Maps,5,Servicio,Baja,Respondida,2026-11-21 19:50,Siempre nos atienden con una sonrisa recomendado
-R024,C004,Valeria Paredes,Google Maps,3,Ambiente,Media,Pendiente,2026-11-22 13:30,La comida mejoro bastante pero el salon estaba muy ruidoso
+id_resena,restaurante,autor,plataforma,calificacion,categoria,urgencia,estado,fecha,texto
+R001,Mar y Limon,Cliente #101,Google Maps,5,Comida,Baja,Respondida,2026-11-10 13:15,Ceviche fresquisimo y leche de tigre en su punto.
+R002,Mar y Limon,Cliente #102,TripAdvisor,5,Servicio,Baja,Respondida,2026-11-11 14:20,Los mozos muy atentos y explicaron bien la carta.
+R003,Mar y Limon,Cliente #103,Instagram,5,Ambiente,Baja,Respondida,2026-11-12 15:00,Terraza linda y buena musica para almorzar.
+R004,Mar y Limon,Cliente #104,PedidosYa,4,Delivery,Baja,Pendiente,2026-11-18 13:45,"Llego bien empacado, aunque falto un poco mas de canchita."
+R005,Rincon Nikkei,Cliente #105,Google Maps,5,Comida,Baja,Respondida,2026-11-10 20:10,El tiradito acevichado y los makis estuvieron espectaculares.
+R006,Rincon Nikkei,Cliente #106,TripAdvisor,5,Ambiente,Baja,Respondida,2026-11-12 21:00,"Local moderno, limpio y comodo para cenar en pareja."
+R007,Rincon Nikkei,Cliente #107,Rappi,4,Delivery,Baja,Respondida,2026-11-14 19:30,"Excelente presentacion en el delivery, llego a tiempo."
+R008,Rincon Nikkei,Cliente #108,Google Maps,4,Servicio,Baja,Pendiente,2026-11-19 20:40,"Buena comida, solo tardo un poco en llegar la cuenta."
+R009,La Picanteria del Sur,Cliente #109,Google Maps,5,Comida,Baja,Respondida,2026-11-11 13:05,El rocoto relleno y el pastel de papa saben a Arequipa.
+R010,La Picanteria del Sur,Cliente #110,TripAdvisor,4,Comida,Baja,Respondida,2026-11-13 14:15,Porciones generosas y buen adobo dominical.
+R011,La Picanteria del Sur,Cliente #111,Instagram,4,Ambiente,Baja,Respondida,2026-11-15 13:50,Ambiente familiar y acogedor.
+R012,La Picanteria del Sur,Cliente #112,Google Maps,4,Tiempos,Baja,Pendiente,2026-11-20 14:30,"Rico todo, pero en hora punta hay que esperar mesa 15 minutos."
+R013,Sabor Andino,Cliente #113,TripAdvisor,4,Comida,Baja,Respondida,2026-11-11 19:20,"Muy buena quinotto con lomo, sabores originales."
+R014,Sabor Andino,Cliente #114,Instagram,4,Ambiente,Baja,Respondida,2026-11-14 20:00,Decoracion muy cuidada y tranquila.
+R015,Sabor Andino,Cliente #115,PedidosYa,3,Tiempos,Media,Pendiente,2026-11-19 21:10,La comida es buena pero demoraron 40 minutos en despachar.
+R016,Sabor Andino,Cliente #116,Google Maps,2,Servicio,Urgente,Pendiente,2026-11-21 20:15,Se olvidaron de traer las bebidas hasta el final de la cena.
+R017,El Fogon Criollo,Cliente #117,Google Maps,4,Comida,Baja,Respondida,2026-11-12 13:30,Buen aji de gallina y buen precio en menu.
+R018,El Fogon Criollo,Cliente #118,PedidosYa,2,Delivery,Urgente,Pendiente,2026-11-19 14:05,El lomo saltado llego derramado dentro de la bolsa.
+R019,El Fogon Criollo,Cliente #119,Google Maps,1,Tiempos,Urgente,Pendiente,2026-11-21 14:40,El pedido tardo 50 minutos y el plato llego frio.
+R020,El Fogon Criollo,Cliente #120,Rappi,1,Comida,Urgente,Pendiente,2026-11-22 13:55,Enviaron un plato distinto al que pedi y sin cubiertos.
+R021,Brasas del Norte,Cliente #121,TripAdvisor,3,Ambiente,Media,Respondida,2026-11-13 20:25,"Local amplio, pero demasiado ruido para conversar."
+R022,Brasas del Norte,Cliente #122,PedidosYa,2,Delivery,Urgente,Pendiente,2026-11-20 21:00,Las papas llegaron blandas y faltaron las cremas.
+R023,Brasas del Norte,Cliente #123,Google Maps,1,Servicio,Urgente,Pendiente,2026-11-22 19:45,Mala actitud del personal al reclamar por la demora.
+R024,Brasas del Norte,Cliente #124,Rappi,1,Comida,Urgente,Pendiente,2026-11-23 20:10,El pollo a la brasa llego quemado por fuera y crudo por dentro.

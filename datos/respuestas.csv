@@ -1,15 +1,5 @@
 id_respuesta,id_resena,responsable,fecha_respuesta,cortesia_ofrecida,texto_respuesta
-RP001,R001,Administrador,2026-11-01 16:00,Ninguna,Muchas gracias Carlos nos alegra que disfrutaras el lomo saltado
-RP002,R005,Administrador,2026-11-05 18:00,Bebida de cortesia,Gracias Rodrigo por tu comentario ya reforzamos la rapidez en entradas
-RP003,R006,Community Manager,2026-11-06 21:30,Ninguna,Gracias Camila te esperamos pronto nuevamente
-RP004,R008,Administrador,2026-11-08 17:00,Ninguna,Agradecemos tu visita Sofia nos encanta recibir familias
-RP005,R009,Jefe de Delivery,2026-11-09 20:30,Reembolso parcial,Disculpa Diego ya gestionamos el reembolso de las bebidas faltantes
-RP006,R011,Administrador,2026-11-11 18:20,Ninguna,Muchas gracias Sebastian por valorar nuestra sazon
-RP007,R012,Community Manager,2026-11-12 22:00,Ninguna,Gracias Andrea tomamos nota para agilizar la atencion en caja
-RP008,R014,Administrador,2026-11-14 17:45,Ninguna,Gracias Paula nos alegra que te gustaran los postres
-RP009,R015,Jefe de Delivery,2026-11-15 21:00,Cupon 15 pct,Gracias Gabriel cambiamos a envases ventilados para mantener las papas crocantes
-RP010,R017,Administrador,2026-11-17 17:30,Ninguna,Muchas gracias Renato por recomendarnos
-RP011,R018,Community Manager,2026-11-18 21:40,Ninguna,Feliz cumpleanos Mariana gracias por celebrar con nosotros
-RP012,R020,Administrador,2026-11-20 18:10,Ninguna,Gracias Kiara nuestra chicha morada se prepara a diario
-RP013,R021,Administrador,2026-11-21 10:00,Ninguna,Que alegria verte nuevamente Carlos gracias por la preferencia
-RP014,R023,Community Manager,2026-11-22 09:30,Ninguna,Gracias Camila siempre seras bienvenida en nuestro restaurante
+RP001,R001,Administrador,2026-11-10 18:00,Ninguna,Muchas gracias por tu visita a Mar y Limon. Te esperamos pronto.
+RP002,R005,Administrador,2026-11-11 10:00,Ninguna,Nos alegra mucho que disfrutaras nuestros makis en Rincon Nikkei.
+RP003,R009,Administrador,2026-11-11 17:30,Ninguna,Gracias por destacar nuestra sazon arequipena en La Picanteria del Sur.
+RP004,R021,Administrador,2026-11-14 11:00,Descuento 10%,Tomamos en cuenta tu comentario sobre el volumen del salon para mejorar tu proxima visita.
